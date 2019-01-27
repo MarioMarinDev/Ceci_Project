@@ -1,3 +1,3 @@
 /// scr_setup_control
 
-room_goto(rm_test);
+rm_goto(rm_menu);
